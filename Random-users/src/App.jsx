@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import './App.css'
 import { dataRequest } from './lib/backend.js'
-import { Link, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import DataTable from './components/DataTable.jsx';
 import Userdetails from './components/Userdetails.jsx';
 import Random from './components/Random.jsx';
