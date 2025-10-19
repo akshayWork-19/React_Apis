@@ -9,7 +9,7 @@ The following applications are included in this monorepo, with dedicated documen
 1. User Data Explorer and Discovery App
    | Key Detail | Description |
    | :--- | :--- |
-   | **Directory** | `[Placeholder for project directory path]` |
+   | **Directory** | `/Random-users` |
    | **Description** | A Single Page Application (SPA) for fetching, listing, and viewing detailed profiles of mock users. Includes a random user discovery feature to showcase multiple API endpoints. |
    | **Core APIs Used** | `getUsers`, `getUserById`, `getARandomUser` (via Hashnode Free API) |
    | **Documentation** | Refer to the dedicated [`./README.md`](https://www.google.com/search?q=./README.md) file for setup instructions, routes, and component details.

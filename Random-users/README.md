@@ -59,7 +59,7 @@ The Userdetails component is responsible for fetching the detailed information f
 
 The Random component calls the getARandomUser endpoint to find and display a completely new, random user profile.
 
-Endpoint: https://freeapi.hashnode.space/api-guide/apireference/getARandomUser
+- Endpoint: https://freeapi.hashnode.space/api-guide/apireference/getARandomUser
 
 ## ▶️ Getting Started
 
@@ -68,8 +68,8 @@ To run this project locally, ensure you have Node.js and npm (or yarn) installed
 Clone the repository:
 
 ```
-git clone [repository-url]
-cd [repository-name]
+git clone git@github.com:akshayWork-19/React_Apis.git
+cd Random-users
 ```
 
 Install dependencies:
